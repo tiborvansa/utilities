@@ -1,0 +1,15 @@
+[submodule "config"]
+	path = config
+	url = https://bitbucket.org/sorcerykid/config.git
+[submodule "console"]
+	path = console
+	url = https://bitbucket.org/sorcerykid/console.git
+[submodule "luacmd"]
+	path = luacmd
+	url = https://github.com/prestidigitator/minetest-mod-luacmd.git
+[submodule "qa_block"]
+	path = qa_block
+	url = https://github.com/minetest-mods/qa_block.git
+[submodule "timekeeper"]
+	path = timekeeper
+	url = https://bitbucket.org/sorcerykid/timekeeper.git
