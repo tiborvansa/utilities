@@ -13,3 +13,12 @@
 [submodule "timekeeper"]
 	path = timekeeper
 	url = https://bitbucket.org/sorcerykid/timekeeper.git
+[submodule "modutil"]
+	path = modutil
+	url = https://github.com/theFox6/modutil
+[submodule "findbiomes"]
+	path = findbiomes
+	url = http://repo.or.cz/w/minetest_findbiomes.git
+[submodule "respawn"]
+	path = respawn
+	url = https://gitlab.com/cronvel/mt-respawn.git
