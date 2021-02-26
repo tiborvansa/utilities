@@ -19,3 +19,6 @@
 [submodule "respawn"]
 	path = respawn
 	url = https://gitlab.com/cronvel/mt-respawn.git
+[submodule "findbiome"]
+	path = findbiome
+	url = https://github.com/tiborvansa/minetest-findbiome.git
