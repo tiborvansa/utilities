@@ -22,3 +22,7 @@
 [submodule "findbiome"]
 	path = findbiome
 	url = https://github.com/tiborvansa/minetest-findbiome.git
+
+[submodule "ltool"]
+	path = ltool
+	url = https://github.com/tiborvansa/minetest-ltool.git
