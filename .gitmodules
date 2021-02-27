@@ -26,3 +26,6 @@
 [submodule "ltool"]
 	path = ltool
 	url = https://github.com/tiborvansa/minetest-ltool.git
+[submodule "handle_schematics"]
+	path = handle_schematics
+	url = https://github.com/Sokomine/handle_schematics.git
