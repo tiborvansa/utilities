@@ -26,3 +26,7 @@
 [submodule "ltool"]
 	path = ltool
 	url = https://github.com/tiborvansa/minetest-ltool.git
+
+[submodule "named_waypoints"]
+	path = named_waypoints
+	url = https://github.com/minetest-mods/named_waypoints.git
